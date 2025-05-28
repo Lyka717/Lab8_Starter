@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Angelica",
     "description": "",
-    "start_url": "",
+    "start_url": "/",
     "display": "fullscreen",
     "background_color": "#ffffff",
     "theme_color": "#b6d1cc",
@@ -29,4 +29,3 @@
       }
     ]
 }
-  
