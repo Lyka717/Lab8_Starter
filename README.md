@@ -2,6 +2,7 @@
 Angelica Cabusi\
 https://lyka717.github.io/Lab8_Starter/
 ![image](./pwa.png)
+![image](./pwa2.png)
 
 Graceful degredation is when used to handle performance and functionality of an application when some components start to fail or degrade. Service workers are to help parts 
 of an application run effectively, such as remembering calls in order to avoid needing to actually create a new call, as well as help 
